@@ -1,0 +1,8 @@
+{
+  "name": "Sonipat Home Service - Property Rentals",
+  "description": "A web application for listing and renting properties like rooms, shops, houses, and factories in the Sonipat district. Users can log in to view full details and list their own properties.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
